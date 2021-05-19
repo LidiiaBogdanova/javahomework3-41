@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
 @Data
-public class Movie{
+public class Movie {
     private int id;
     private String imageUrl;
     private String name;
